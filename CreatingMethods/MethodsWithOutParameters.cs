@@ -31,6 +31,5 @@
             minLongValue = long.MinValue;
             maxLongValue = long.MaxValue;
         }
-
     }
 }
